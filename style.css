@@ -1,0 +1,24 @@
+* {
+}
+
+main {
+    width: 100%;
+}
+
+
+article {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.kartya {
+
+border: 1px solid black;
+
+}
+
+.kep {
+    width: 300px;
+    height: 300px;
+}
